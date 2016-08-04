@@ -1,0 +1,25 @@
+_repo: The-Road-to-Providence_3745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daviess, Maria Thompson
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '1284'
+    url: http://www.gutenberg.org/2009/agents/1284
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Tennessee -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- GITenberg
+title: The Road to Providence
+url: http://www.gutenberg.org/ebooks/3745
