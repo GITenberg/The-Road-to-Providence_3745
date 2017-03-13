@@ -1,5 +1,8 @@
 _repo: The-Road-to-Providence_3745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daviess, Maria Thompson
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1284'
     url: http://www.gutenberg.org/2009/agents/1284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3745#The-Road-to-Providence
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
